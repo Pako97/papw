@@ -107,9 +107,9 @@ Sugerencia:
 
 Git | :star: Sourcetree
 ---|---
-1. Bajar e instalar [Git](https://gitforwindows.org/)| 1. Bajar e instalar [Sourcetree](https://www.sourcetreeapp.com/)
-2. Abrir terminal | 2. Abrir Sourcetree
-3. Insertar código  :small_red_triangle_down: | 3. Tools>Options>General
+1.Bajar e instalar [Git](https://gitforwindows.org/)| 1.Bajar e instalar [Sourcetree](https://www.sourcetreeapp.com/)
+2.Abrir terminal | 2.Abrir Sourcetree
+3.Insertar código  :small_red_triangle_down: | 3.Tools>Options>General
 
 
 ```git
