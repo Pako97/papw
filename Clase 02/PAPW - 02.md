@@ -74,7 +74,7 @@ PAPW
 ## Observaciones tarea (IV)
 
 * 7641: El archivo es extensión `.html`.
-* 4873 y 6725: Revisar el orden de carpetas de los compañeros. Es un repositorio para todas las tareas.
+* 4873, 6725, 2024: Revisar el orden de carpetas de los compañeros. Es un repositorio para todas las tareas.
 * 6312: Hacer público un repositorio en Bitbucket:
 	* Desde la página del repositorio, dar clic en Settings.
 	* En Repository details, desmarcar la casilla "This is a private repository".
