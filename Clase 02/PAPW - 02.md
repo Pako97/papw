@@ -51,9 +51,33 @@ PAPW
 <!-- Etiquetas vacías -->
 <br> Es lo mismo que <br/>
 ```
+---
+
+## Observaciones tarea (III)
+
+```html
+<!-- :| -->
+<Html>
+  <HEAD>[...]</HEAD>
+  [...]
+</Html>
+
+<!-- :) -->
+<html>
+  <head>[...]</head>
+  [...]
+</html>
+```
+
+---
+
+## Observaciones tarea (IV)
 
 * 7641: El archivo es extensión `.html`.
-* 4873: Revisar el orden de carpetas de los compañeros. Es un repositorio para todas las tareas.
+* 4873 y 6725: Revisar el orden de carpetas de los compañeros. Es un repositorio para todas las tareas.
+* 6312: Hacer público un repositorio en Bitbucket:
+	* Desde la página del repositorio, dar clic en Settings.
+	* En Repository details, desmarcar la casilla "This is a private repository".
 
 ---
 
@@ -104,6 +128,7 @@ de línea.</p>
 	las violetas azules,
 	[...]
 </p>
+
 <pre>
 	Las rosas son rojas,
 	las violetas azules,
@@ -132,6 +157,18 @@ de línea.</p>
     <sup>superíndices</sup>.
 </p>
 ```
+
+---
+
+## [Código](https://websemantics.uk/articles/displaying-code-in-web-pages/) y [expresiones matemáticas](https://www.mathjax.org/)
+
+```html
+<code>int i = 0;</code>
+
+<var>F = m &times; a</var>
+```
+
+$$\sum_{i=1}\frac{n!}{r!(n-r)!}^{n}{X_i^2}$$
 
 ---
 
@@ -187,6 +224,7 @@ de línea.</p>
   <li>Tercero</li>
 </ol>
 ```
+¿Cómo hacer listas anidadas?
 
 ---
 
@@ -232,9 +270,32 @@ Hacer una página HTML con todos los elementos antes vistos.
 ###### +2 en primer examen parcial
 
 * Hacer una página de perfil en HTML con la información de perfil propia o de una celebridad, utilizando todos los elementos vistos. No se debe repetir persona.
-* Enviar el vínculo de GitHub, Bitbucket o CodePen al correo jose.benavidesvz@uanl.edu.mx con asunto:
 
-<center><i>PAPW Tarea 2 [Matrícula]</i></center>
+
+---
+
+## Para saber más: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+```md
+# Encabezado 1
+# Encabezado 2
+
+Párrafo con *cursiva*, **negritas**, ~~tachados~~.
+
+1. Lista
+2. Numerada
+
+* Lista
+* No ordenada
+
+[Vínculo a Google](www.google.com)
+
+![Imagen](https://fakeimg.pl/150/)
+
+`código`
+
+
+```
 
 ---
 

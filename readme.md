@@ -15,8 +15,8 @@ Matrícula | T1 | T2 | T3 | T4
 [7563](https://bitbucket.org/AyalaL/tareas/src/master/) | 2 | 2 |
 7543 |  |  |  |  |
 8959 |  |  |  |  |
-4306 |  |  |  |  |
-0219 |  |  |  |  |
+[4306](https://github.com/MichChiu/PAPW) | 2 |  |  |  |
+[0219](https://github.com/JGCisRmz/PAPW) | 2 |  |  |  |
 [4873](https://github.com/FabrizioCF/PAPW_Tarea1) | 2 |
 [2554](https://github.com/julios5050/Tareas) | 2 |
 [7641](https://github.com/edparra21/PAPW) | 2 |
@@ -30,7 +30,7 @@ Matrícula | T1 | T2 | T3 | T4
 1326 |  |  |  |  |
 0813 |  |  |  |  |
 2663 |  |  |  |  |
-6725 |  |  |  |  |
+[6725](https://github.com/Spider351/Papw) | 2 |  |  |  |
 6670 |  |  |  |  |
 2027 |  |  |  |  |
 2024 |  |  |  |  |
