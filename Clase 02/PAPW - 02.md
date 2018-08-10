@@ -270,6 +270,7 @@ Hacer una página HTML con todos los elementos antes vistos.
 ###### +2 en primer examen parcial
 
 * Hacer una página de perfil en HTML con la información de perfil propia o de una celebridad, utilizando todos los elementos vistos. No se debe repetir persona.
+* Subirla al repositorio en una carpeta llamada Tarea 2.
 
 
 ---
