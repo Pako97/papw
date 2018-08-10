@@ -6,6 +6,28 @@
 
 Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciembre de 2018.
 
+### Planeación semanal
+
+* 7 y 9 ago: Introduccion HTML
+* 14 y 16 ago: HTML y CSS
+* 21 y 23 ago: Formularios HTML y control de errores con Javascript
+* 28 ago: JQuery
+* **30 ago: Primer examen parcial**
+* 4 y 6 sep: NetBeans e introducción de Java
+* 11 y 13 sep: Introducción a POO de Java
+* 18 y 20 sep: Java POO
+* 25 y 27 sep: Base de datos relacional
+* 2 oct: Operaciones con una base de datos
+* **4 oct: Segundo examen parcial**
+* 9 y 11 oct: JSP
+* 16 y 18 oct: JSTL
+* 23 y 25 oct: Introducción a Servlets
+* 30 oct y 1 nov: Servlets
+* 6 y 8 nov: Usuarios y hosting
+* 13 y 15 nov: Manejo de archivos
+* **Examen final por definir**
+
+
 ### Tareas entregadas
 
 Matrícula | T1 | T2 | T3 | T4
@@ -42,8 +64,8 @@ Matrícula | T1 | T2 | T3 | T4
 [7527](https://github.com/Alinavg2712/PAPW-) | 2 |
 6312 |  |  |  |  |
 [1887](https://github.com/DiegoWayne/Tarea-1) | 2 |  |  |  |
-5074 |  |  |  |  |
+[5074](https://github.com/soy1limon/PAPW) | 2 |  |  |  |
 1108 |  |  |  |  |
-0564 |  |  |  |  |
+[0564](https://github.com/PupperGroove/Tarea1.git) |  |  |  |  |
 [2859](https://bitbucket.org/elizabeth516/papw/src/master/) | 2 |
 8926 |  |  |  |  |
