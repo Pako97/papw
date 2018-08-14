@@ -35,15 +35,15 @@ Matrícula | T1 | T2 | T3 | T4
 [5775](https://github.com/MaricruzAlvarado/PAPW) | 2 |  |  |  |
 8111 |  |  |  |  |
 [7563](https://bitbucket.org/AyalaL/tareas/src/master/) | 2 | 2 |
-[7543](https://github.com/TonySegov/PAPW_Tarea1) | 2 |  |  |  |
+[7543](https://github.com/TonySegov/PAPW_Tarea1) | 2 | 2 |  |  |
 8959 |  |  |  |  |
-[4306](https://github.com/MichChiu/PAPW) | 2 |  |  |  |
+[4306](https://github.com/MichChiu/PAPW) | 2 | 2 |  |  |
 [0219](https://github.com/JGCisRmz/PAPW) | 2 | 2 |  |  |
 [4873](https://github.com/FabrizioCF/PAPW_Tarea1) | 2 |
-[2554](https://github.com/julios5050/Tareas) | 2 |
+[2554](https://github.com/julios5050/Tareas) | 2 | 2
 [7641](https://github.com/edparra21/PAPW) | 2 | 2
 4069 |  |  |  |  |
-6743 |  |  |  |  |
+[6743](https://github.com/Deathmajorasmask/PAPW) | 2 | 2 |  |  |
 [1480](https://github.com/EGaravitoM/Papw) | 2 | 2
 [7497](https://github.com/RickyGonal/PAPW.git) | 2 | 2 |  |  |
 4179 |  |  |  |  |
@@ -52,10 +52,10 @@ Matrícula | T1 | T2 | T3 | T4
 [1326](https://github.com/Roark995/Tarea-1) | 2 |  |  |  |
 [0813](https://github.com/GeraHdz/Tareas-de-PAPW) | 2 |  |  |  |
 2663 |  |  |  |  |
-[6725](https://github.com/Spider351/Papw) | 2 |  |  |  |
+[6725](https://github.com/Spider351/Papw) | 2 | 2 |  |  |
 6670 |  |  |  |  |
 [2027](https://github.com/JoshuaJosafath/Tareas_PAPW/tree/master/Tarea%201) | 2 |  |  |  |
-[2024](https://bitbucket.org/gilcereyna/tarea-1) |  |  |  |  |
+[2024](https://bitbucket.org/gilcereyna/tarea-1) | 2 |  |  |  |
 3255 |  |  |  |  |
 [1811](https://bitbucket.org/JuanSalinas9k/juansalinasrepo/src/master/) | 2 | 2
 [4334](https://github.com/codesesp/PAPW) | 2 |  |  |  |
