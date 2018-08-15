@@ -49,8 +49,8 @@ Matrícula | T1 | T2 | T3 | T4
 4179 |  |  |  |  |
 [0524](https://github.com/PandaKnightwalker/papw) | 2 |  |  |  |
 [7408](https://bitbucket.org/ObedYairGL/papwgl/src/master/) | 2 | 2 |  |  |
-[1326](https://github.com/Roark995/Tarea-1) | 2 |  |  |  |
-[0813](https://github.com/GeraHdz/Tareas-de-PAPW) | 2 |  |  |  |
+[1326](https://github.com/Roark995/Tarea-1) | 2 | 2 |  |  |
+[0813](https://github.com/GeraHdz/Tareas-de-PAPW) | 2 | 2 |  |  |
 2663 |  |  |  |  |
 [6725](https://github.com/Spider351/Papw) | 2 | 2 |  |  |
 6670 |  |  |  |  |
@@ -68,4 +68,4 @@ Matrícula | T1 | T2 | T3 | T4
 [1108](https://github.com/Gera1590/PAPW) | 2 | 2 |  |  |
 [0564](https://github.com/PupperGroove/Tarea1.git) | 2 | 2 |  |  |
 [2859](https://github.com/ElizabethHerrera/PAPW) | 2 | 2
-8926 |  |  |  |  |
+[8926](https://github.com/JudithVelez/Papw) |  | 2 |  |  |
