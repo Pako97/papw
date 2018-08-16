@@ -315,11 +315,15 @@ li a {
 * [Materialize](https://materializecss.com/)
 * [Flat UI](http://designmodo.github.io/Flat-UI/)
 * [JQuery UI](https://jqueryui.com/)
+* [Animate.css](https://daneden.github.io/animate.css/) :star:
 * [Font Awesome Free](https://fontawesome.com/free)
 
 <hr>
 
-## ¿Ejemplo?
+## Recomendación
+
+* [UI-Patterns](http://ui-patterns.com/)
+* [CSS-Tricks](https://css-tricks.com/)
 
 ---
 
