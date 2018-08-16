@@ -29,12 +29,12 @@ PAPW
 ```
 
 ```css
-/* :c */
+/* :| */
 h1{
 text-align: center;
 }
 
-/* c: */
+/* :> */
 h1{
   text-align: center;
 }
@@ -126,7 +126,7 @@ div {
 
 ## Observaciones tarea (VI)
 
-1108 :star: [ ] (https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
+1108 :star: [ * ](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
 ```css
 /* Especifica el nombre de una fuente y su ubicación */
 @font-face {
@@ -168,8 +168,8 @@ p{font-family: 'M PLUS 1p', sans-serif;}
 div {
     width: 300px;
     height: 200px;
-    border: 25px solid green;
     padding: 25px;
+    border: 25px solid black;
     margin: 25px;
 }
 ```
@@ -182,13 +182,13 @@ div {
 .centrarEnPantalla {
   margin: auto;
   width: 50%; /* Ancho menor a 100%  */
-  border: 3px solid green;
+  border: 3px solid black;
   padding: 10px;
 }
 
 .centrarTextoEnElemento {
   text-align: center;
-  border: 3px solid green;
+  border: 3px solid black;
 }
 ```
 
@@ -197,11 +197,11 @@ div {
 ## Selectores combinados [ * ](https://www.w3schools.com/css/css_combinators.asp)
 
 ```css
-div p{} /* Todos los p dentro de div */
+div p{} /* Todos los p dentro de div en cualquier nivel */
 
 div > p{} /* Todos los p hijos inmediatos de div */
 
-div + p{} /* El p que sigan de un div hermano */
+div + p{} /* El p que siga de un div hermano */
 
 div ~ p{} /* Todos los p hermanos de div */
 ```
@@ -314,7 +314,12 @@ li a {
 * [Bootstrap](http://getbootstrap.com/)
 * [Materialize](https://materializecss.com/)
 * [Flat UI](http://designmodo.github.io/Flat-UI/)
+* [JQuery UI](https://jqueryui.com/)
 * [Font Awesome Free](https://fontawesome.com/free)
+
+<hr>
+
+## ¿Ejemplo?
 
 ---
 
