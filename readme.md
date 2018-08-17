@@ -32,7 +32,7 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 
 | Matrícula                                                               | T1 | T2 | T3 | T4 |
 |:------------------------------------------------------------------------|:--:|:--:|:--:|:--:|
-| [5775](https://github.com/MaricruzAlvarado/PAPW)                        | 2  | 2  |    |    |
+| [5775](https://github.com/MaricruzAlvarado/PAPW)                        | 2  | 2  | 2  |    |
 | 8111                                                                    |    |    |    |    |
 | [7563](https://bitbucket.org/AyalaL/tareas/src/master/)                 | 2  | 2  |    |    |
 | [7543](https://github.com/TonySegov/PAPW_Tarea1)                        | 2  | 2  | 2  |    |
@@ -44,12 +44,12 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 | [7641](https://github.com/edparra21/PAPW)                               | 2  | 2  | 2  |    |
 | 4069                                                                    |    |    |    |    |
 | [6743](https://github.com/Deathmajorasmask/PAPW)                        | 2  | 2  | 2  |    |
-| [1480](https://github.com/EGaravitoM/Papw)                              | 2  | 2  |    |    |
-| [7497](https://github.com/RickyGonal/PAPW.git)                          | 2  | 2  | 2   |    |
+| [1480](https://github.com/EGaravitoM/Papw)                              | 2  | 2  | 2  |    |
+| [7497](https://github.com/RickyGonal/PAPW.git)                          | 2  | 2  | 2  |    |
 | 4179                                                                    |    |    |    |    |
-| [0524](https://github.com/PandaKnightwalker/papw)                       | 2  |    |    |    |
+| [0524](https://github.com/PandaKnightwalker/papw)                       | 2  | 2  | 2  |    |
 | [7408](https://bitbucket.org/ObedYairGL/papwgl/src/master/)             | 2  | 2  | 2  |    |
-| [1326](https://github.com/Roark995/Tarea-1)                             | 2  | 2  |    |    |
+| [1326](https://github.com/Roark995/Tarea-1)                             | 2  | 2  | 2  |    |
 | [0813](https://github.com/GeraHdz/Tareas-de-PAPW)                       | 2  | 2  | 2  |    |
 | 2663                                                                    |    |    |    |    |
 | [6725](https://github.com/Spider351/Papw)                               | 2  | 2  | 2  |    |
@@ -64,8 +64,8 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 | [7527](https://github.com/Alinavg2712/PAPW-)                            | 2  | 2  | 2  |    |
 | 6312                                                                    |    |    |    |    |
 | [1887](https://github.com/DiegoWayne/Tarea-1)                           | 2  |    |    |    |
-| [5074](https://github.com/soy1limon/PAPW)                               | 2  | 2  | 2   |    |
-| [1108](https://github.com/Gera1590/PAPW)                                | 2  | 2  | 2   |    |
+| [5074](https://github.com/soy1limon/PAPW)                               | 2  | 2  | 2  |    |
+| [1108](https://github.com/Gera1590/PAPW)                                | 2  | 2  | 2  |    |
 | [0564](https://github.com/PupperGroove/Tarea1.git)                      | 2  | 2  |    |    |
 | [2859](https://github.com/ElizabethHerrera/PAPW)                        | 2  | 2  | 2  |    |
 | [8926](https://github.com/JudithVelez/Papw)                             | 2  | 2  |    |    |
