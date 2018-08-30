@@ -10,7 +10,7 @@ PAPW
 
 ---
 
-# 7. JQuery
+# 7. Repaso
 
 ---
 
