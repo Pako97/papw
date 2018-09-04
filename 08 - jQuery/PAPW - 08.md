@@ -148,14 +148,14 @@ $("#sel1").click(
 
 ```javascript
 $("#sel1").click(
-  console.log($("#sel2").text("Contenido"));
+  $("#sel2").text("Contenido");
   
-  console.log($("#sel2").html("<p>Ejemplo</p>"));
+  $("#sel2").html("<p>Ejemplo</p>");
   
-  console.log($("#sel3").val("valor"));
+  $("#sel3").val("valor");
   
   // Devuelve el valor del atributo especificado
-  console.log($("#sel3").attr("type", "radio"));
+  $("#sel3").attr("type", "radio");
 );
 ```
 
