@@ -12,7 +12,8 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 * 14 y 16 ago: HTML y CSS
 * 21 y 23 ago: Formularios HTML y control de errores con Javascript
 * 28 y 30 ago: JQuery
-* 4 y 6 sep: NetBeans e introducción de Java
+* 4 sep: NetBeans e introducción de Java
+* 6 sep: Repaso examen
 * **11 sep: Primer examen parcial**
 * 13 sep: Introducción a POO de Java
 * 18 y 20 sep: Java POO
