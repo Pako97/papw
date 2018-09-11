@@ -33,44 +33,44 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 
 Matrículas con asterisco representan oyentes.
 
-| Matrícula                                                               | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 |
-|:------------------------------------------------------------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|
-| [5775](https://github.com/MaricruzAlvarado/PAPW)                        | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 2  |  1  |
-| 8111                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  |
-| [7563](https://bitbucket.org/AyalaL/tareas/src/master/)                 | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 0  |  0  |
-| [7543](https://github.com/TonySegov/PAPW_Tarea1)                        | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [8959](https://github.com/OmarCSTB/PAPW)                                | 2  | 2  | 2  | 0  | 0  | 0  | 1  | 0  | 0  |  0  |
-| [4306](https://github.com/MichChiu/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 0  | 0  |  2  |
-| [0219](https://github.com/JGCisRmz/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [4873](https://github.com/FabrizioCF/PAPW_Tarea1)                       | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [2554](https://github.com/julios5050/Tareas)                            | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [7641](https://github.com/edparra21/PAPW)                               | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [4069](https://github.com/brndn98/PAPW)                                 | 2  | 2  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  0  |
-| [6743](https://github.com/Deathmajorasmask/PAPW)                        | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 2  |  1  |
-| [1480](https://github.com/EGaravitoM/Papw)                              | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [7497](https://github.com/RickyGonal/PAPW.git)                          | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [4179](https://github.com/Albert0070/tarea-papw)                        | 2  | 2  | 2  | 2  | 2  | 0  | 0  | 0  | 2  |  0  |
-| [0524](https://github.com/PandaKnightwalker/papw)                       | 2  | 2  | 2  | 2  | 0  | 2  | 1  | 0  | 0  |  2  |
-| [7408](https://bitbucket.org/ObedYairGL/papwgl/src/master/)             | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [1326](https://github.com/Roark995/Tarea-1)                             | 2  | 2  | 2  | 2  | 2  | 0  | 0  | 0  | 0  |  0  |
-| [0813](https://github.com/GeraHdz/Tareas-de-PAPW)                       | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 0  |  2  |
-| 2663                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  |
-| [6725](https://github.com/Spider351/Papw)                               | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| 6670                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  0  |
-| [2027](https://github.com/JoshuaJosafath/Tareas_PAPW)                   | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [2024](https://bitbucket.org/gilcereyna/papw1/src/master/)              | 2  | 2  | 2  | 2  | 2  | 2  | 0  | 0  | 2  |  0  |
-| 3255                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  0  |
-| [1811](https://bitbucket.org/JuanSalinas9k/juansalinasrepo/src/master/) | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [4334](https://github.com/codesesp/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [7519](https://github.com/asvalles/papwTarea1)                          | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 2  |  1  |
-| [9376](https://bitbucket.org/Rhoric_/cosos-de-papw/src/master/)         | 2  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 2  |  1  |
-| [7527](https://github.com/Alinavg2712/PAPW-)                            | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  |
-| [6312](https://github.com/RicardoBanda97/Tareas_Papw)                   | 2  | 2  | 2  | 2  | 0  | 0  | 1  | 0  | 0  |  1  |
-| [1887](https://github.com/DiegoWayne/Tarea-1)                           | 2  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  2  |
-| [5074](https://github.com/soy1limon/PAPW)                               | 2  | 2  | 2  | 2  | 0  | 0  | 0  | 0  | 0  |  0  |
-| [1108](https://github.com/Gera1590/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 0  |  0  |
-| [0564](https://github.com/PupperGroove/Tarea1.git)                      | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 0  | 0  |  1  |
-| [2859](https://github.com/ElizabethHerrera/PAPW)                        | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 0  | 2  |  2  |
-| [8926](https://github.com/JudithVelez/Papw)                             | 2  | 2  | 2  | 0  | 0  | 0  | 0  | 0  | 0  |  0  |
-| [2155*](https://github.com/Maria-Ellie/Papw )                           | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 2  |  1  |
-| [3101*](https://github.com/HFH96/T1)                                    | 1  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  |
+| Matrícula                                                               | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 | A1 |
+|:------------------------------------------------------------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--:|
+| [5775](https://github.com/MaricruzAlvarado/PAPW)                        | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 2  |  1  | -  |
+| 8111                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  | -  |
+| [7563](https://bitbucket.org/AyalaL/tareas/src/master/)                 | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 0  |  0  | 5  |
+| [7543](https://github.com/TonySegov/PAPW_Tarea1)                        | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [8959](https://github.com/OmarCSTB/PAPW)                                | 2  | 2  | 2  | 0  | 0  | 0  | 1  | 0  | 0  |  0  | 1  |
+| [4306](https://github.com/MichChiu/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 0  | 0  |  2  | 3  |
+| [0219](https://github.com/JGCisRmz/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [4873](https://github.com/FabrizioCF/PAPW_Tarea1)                       | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [2554](https://github.com/julios5050/Tareas)                            | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [7641](https://github.com/edparra21/PAPW)                               | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [4069](https://github.com/brndn98/PAPW)                                 | 2  | 2  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  0  | -  |
+| [6743](https://github.com/Deathmajorasmask/PAPW)                        | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 2  |  1  | 5  |
+| [1480](https://github.com/EGaravitoM/Papw)                              | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [7497](https://github.com/RickyGonal/PAPW.git)                          | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [4179](https://github.com/Albert0070/tarea-papw)                        | 2  | 2  | 2  | 2  | 2  | 0  | 0  | 0  | 2  |  0  | 5  |
+| [0524](https://github.com/PandaKnightwalker/papw)                       | 2  | 2  | 2  | 2  | 0  | 2  | 1  | 0  | 0  |  2  | 1  |
+| [7408](https://bitbucket.org/ObedYairGL/papwgl/src/master/)             | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [1326](https://github.com/Roark995/Tarea-1)                             | 2  | 2  | 2  | 2  | 2  | 0  | 0  | 0  | 0  |  0  | -  |
+| [0813](https://github.com/GeraHdz/Tareas-de-PAPW)                       | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 0  |  2  | 5  |
+| 2663                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  | -  |
+| [6725](https://github.com/Spider351/Papw)                               | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 1  |
+| 6670                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  0  | -  |
+| [2027](https://github.com/JoshuaJosafath/Tareas_PAPW)                   | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 3  |
+| [2024](https://bitbucket.org/gilcereyna/papw1/src/master/)              | 2  | 2  | 2  | 2  | 2  | 2  | 0  | 0  | 2  |  0  | 5  |
+| [3255](https://github.com/MrSalinas1/REPO)                              | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  2  | 5  |
+| [1811](https://bitbucket.org/JuanSalinas9k/juansalinasrepo/src/master/) | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [4334](https://github.com/codesesp/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
+| [7519](https://github.com/asvalles/papwTarea1)                          | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 2  |  1  | 5  |
+| [9376](https://bitbucket.org/Rhoric_/cosos-de-papw/src/master/)         | 2  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 2  |  1  | -  |
+| [7527](https://github.com/Alinavg2712/PAPW-)                            | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 1  |
+| [6312](https://github.com/RicardoBanda97/Tareas_Papw)                   | 2  | 2  | 2  | 2  | 0  | 0  | 1  | 0  | 0  |  1  | 5  |
+| [1887](https://github.com/DiegoWayne/Tarea-1)                           | 2  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  2  | -  |
+| [5074](https://github.com/soy1limon/PAPW)                               | 2  | 2  | 2  | 2  | 0  | 0  | 0  | 0  | 0  |  0  | -  |
+| [1108](https://github.com/Gera1590/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 0  |  0  | 3  |
+| [0564](https://github.com/PupperGroove/Tarea1.git)                      | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 0  | 0  |  1  | 5  |
+| [2859](https://github.com/ElizabethHerrera/PAPW)                        | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 0  | 2  |  2  | 5  |
+| [8926](https://github.com/JudithVelez/Papw)                             | 2  | 2  | 2  | 0  | 0  | 0  | 0  | 0  | 0  |  0  | 1  |
+| [2155*](https://github.com/Maria-Ellie/Papw )                           | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 2  |  1  | NA |
+| [3101*](https://github.com/HFH96/T1)                                    | 1  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  | NA |
