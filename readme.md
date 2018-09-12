@@ -33,7 +33,7 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 
 * Matrículas con asterisco representan oyentes.
 * P1: Puntos extra primer parcial
-* C1: Calificación primer parcial (máximo 100)
+* C1: Calificación primer parcial con puntos extra (máximo 100)
 * A1: Puntos primer avance
 
 | Matrícula                                                               | P1 | C1  | A1 |
