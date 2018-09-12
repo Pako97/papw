@@ -77,10 +77,3 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 | [8926](https://github.com/JudithVelez/Papw)                             |  6  | 42  | 4  |
 | [2155*](https://github.com/Maria-Ellie/Papw )                           |  4  | NA  | NA |
 | [3101*](https://github.com/HFH96/T1)                                    |  2  | NA  | NA |
-
-### Reporte primer parcial
-
-![Medias de tareas](/img/PAPW - P1tareas.png)
-
-![Resumen calificaciones](/img/PAPW - P1examen.png)
-
