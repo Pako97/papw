@@ -35,7 +35,7 @@ Matrículas con asterisco representan oyentes.
 
 | Matrícula                                                               | T1 | T2 | T3 | T4 | T5 | T6 | T7 | T8 | T9 | T10 | A1 |
 |:------------------------------------------------------------------------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:---:|:--:|
-| [5775](https://github.com/MaricruzAlvarado/PAPW)                        | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 2  |  1  | -  |
+| [5775](https://github.com/MaricruzAlvarado/PAPW)                        | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 2  |  1  | 4  |
 | 8111                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  | -  |
 | [7563](https://bitbucket.org/AyalaL/tareas/src/master/)                 | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 0  |  0  | 5  |
 | [7543](https://github.com/TonySegov/PAPW_Tarea1)                        | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
@@ -54,9 +54,9 @@ Matrículas con asterisco representan oyentes.
 | [7408](https://bitbucket.org/ObedYairGL/papwgl/src/master/)             | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 5  |
 | [1326](https://github.com/Roark995/Tarea-1)                             | 2  | 2  | 2  | 2  | 2  | 0  | 0  | 0  | 0  |  0  | -  |
 | [0813](https://github.com/GeraHdz/Tareas-de-PAPW)                       | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 0  |  2  | 5  |
-| 2663                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  | -  |
+| [2663](https://github.com/TobyHerrera97/Tareas-Papw)                    | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  0  | -  |
 | [6725](https://github.com/Spider351/Papw)                               | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 1  |
-| 6670                                                                    | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  0  | -  |
+| [6670](https://github.com/CristoOrtiz/papw1)                            | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  0  | -  |
 | [2027](https://github.com/JoshuaJosafath/Tareas_PAPW)                   | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 3  |
 | [2024](https://bitbucket.org/gilcereyna/papw1/src/master/)              | 2  | 2  | 2  | 2  | 2  | 2  | 0  | 0  | 2  |  0  | 5  |
 | [3255](https://github.com/MrSalinas1/REPO)                              | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 0  |  2  | 5  |
@@ -66,7 +66,7 @@ Matrículas con asterisco representan oyentes.
 | [9376](https://bitbucket.org/Rhoric_/cosos-de-papw/src/master/)         | 2  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 2  |  1  | -  |
 | [7527](https://github.com/Alinavg2712/PAPW-)                            | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  | 2  |  2  | 1  |
 | [6312](https://github.com/RicardoBanda97/Tareas_Papw)                   | 2  | 2  | 2  | 2  | 0  | 0  | 1  | 0  | 0  |  1  | 5  |
-| [1887](https://github.com/DiegoWayne/Tarea-1)                           | 2  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  2  | -  |
+| [1887](https://github.com/DiegoWayne/Tarea-1)                           | 2  | 0  | 0  | 0  | 0  | 0  | 1  | 0  | 0  |  2  | 4  |
 | [5074](https://github.com/soy1limon/PAPW)                               | 2  | 2  | 2  | 2  | 0  | 0  | 0  | 0  | 0  |  0  | -  |
 | [1108](https://github.com/Gera1590/PAPW)                                | 2  | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 0  |  0  | 3  |
 | [0564](https://github.com/PupperGroove/Tarea1.git)                      | 2  | 2  | 2  | 2  | 2  | 1  | 2  | 0  | 0  |  1  | 5  |
