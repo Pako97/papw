@@ -36,7 +36,7 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 * C1: Calificación primer parcial (máximo 100)
 * A1: Puntos primer avance
 
-| Matrícula                                                               | PE1 | C1  | A1 |
+| Matrícula                                                               | P1 | C1  | A1 |
 |:------------------------------------------------------------------------|:---:|:---:|:--:|
 | [5775](https://github.com/MaricruzAlvarado/PAPW)                        | 18  | 108 | 4  |
 | 8111                                                                    |  1  | 71  | 0  |
