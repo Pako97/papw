@@ -83,3 +83,4 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 ![Medias de tareas](/img/PAPW - P1tareas.png)
 
 ![Resumen calificaciones](/img/PAPW - P1examen.png)
+
