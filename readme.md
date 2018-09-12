@@ -80,6 +80,6 @@ Repositorio para la clase de PAPW impartida durante el semestre de agosto-diciem
 
 ### Reporte primer parcial
 
-![Medias de tareas](img/PAPW - P1tareas.png)
+![Medias de tareas](/img/PAPW - P1tareas.png)
 
-![Resumen calificaciones](img/PAPW - P1examen.png)
+![Resumen calificaciones](/img/PAPW - P1examen.png)
