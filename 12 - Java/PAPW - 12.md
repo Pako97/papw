@@ -1,0 +1,1 @@
+* 8926, 8111: El jueves vas a pasar a hacer un repositorio local, crear un archivo, hacer un commt, hacer un repositorio remoto, hacer un push, clonarlo, modificarlo, hacer un cambio y hacer un push.
