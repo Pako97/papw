@@ -96,7 +96,7 @@ manejadorBD://usuario:contraseña@host:puerto/baseDeDatos
 ```
 4. Correr comando:
 ```cmd
-mvnw update install
+mvnw clean install
 ```
 
 ---
