@@ -14,7 +14,7 @@ PAPW
 
 ---
 
-## 1. Añadir dependencias a `pow.xml`
+## 1. Añadir dependencias a `pom.xml`
 
 * https://mvnrepository.com/artifact/mysql/mysql-connector-java
 * https://mvnrepository.com/artifact/org.springframework/spring-jdbc
@@ -41,15 +41,16 @@ CREATE TABLE User(
 
 ```java
 package com.example;
+
+import java.sql.Connection;
 import java.util.List;
-import javax.sql.DataSource;
 
 public interface UserDAO {
-   public void setDataSource(DataSource ds);
+   public void setDataSource(Connection connection);
    
    public void create(String name, Integer age);
    
-   public Student getUser(Integer id);
+   public User getUser(Integer id);
    
    public List<User> listUsers();
    
@@ -110,10 +111,14 @@ public class UserMapper implements RowMapper<User> {
 ## 6. Plantilla JDBC
 
 ```java
-package com.examplw;
+package com.example;
+
 import java.util.List;
-import javax.sql.DataSource;
+import java.sql.Connection;
 import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.datasource.
+  SingleConnectionDataSource;
+  
 public class UserJDBCTemplate implements UserDAO {
    // Siguientes diapositivas
 }
@@ -189,7 +194,7 @@ public void update(Integer id, Integer age){
 ## 7. Requisitos de uso
 
 ```java
-import com.exampe.UserJDBCTemplate;
+import com.example.UserJDBCTemplate;
 //
 [...]
 
@@ -213,7 +218,7 @@ for (User u : users) {
 
 userTemplate.update(1, 31);
 
-User user = userTemplate.getStudent(1);
+User user = userTemplate.getUser(1);
 System.out.print("ID : " + user.getId() );
 System.out.print(", Name : " + user.getName());
 System.out.println(", Age : " + user.getAge());
