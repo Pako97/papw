@@ -137,6 +137,7 @@ public String userEditSubmit(@ModelAttribute User user)
 ## Vista para registrar un usuario
 
 ```html
+<!-- src/main/resources/templates/setUser.html -->
 <!DOCTYPE HTML>
 <html xmlns:th="http://www.thymeleaf.org">
   <head>
@@ -165,6 +166,7 @@ public String userEditSubmit(@ModelAttribute User user)
 
 ```html
 <!DOCTYPE HTML>
+<!-- src/main/resources/templates/updateUser.html -->
 <html xmlns:th="http://www.thymeleaf.org">
   <head>
     <meta http-equiv="Content-Type" 
@@ -173,8 +175,7 @@ public String userEditSubmit(@ModelAttribute User user)
   <body>
     <form action="#" th:action="@{/updateUser}" 
       th:object="${user}" method="post">
-      <input type="hidden" 
-         th:field="*{id}" value="${user.id}"/>
+ <input type="hidden" th:field="*{id}" value="${user.id}"/>
       <p>Nombre: 
         <input type="text" th:field="*{name}" 
            value="${user.name}"/></p>
